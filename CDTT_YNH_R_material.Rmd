@@ -11,7 +11,7 @@ data$List <- as.factor(data$List)
 data$Group <- factor(data$Group, levels=c("English Male", "English Female", "French Male", "French Female"))
 ```
 
-###### Create four subsets of data, by lamnguage-talker version
+###### Create four subsets of data, by language-talker version
 ```{r}
 eng_m <- subset(data, Group == "English Male")
 eng_f <- subset(data, Group == "English Female")
