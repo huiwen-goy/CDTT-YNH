@@ -1,1 +1,1 @@
-The Rmd file contains the code used for the statistical analysis of Phase 2 data and the code for plotting Figure 2 and Figure 3 in the JASA-EL paper "Development of the Canadian Digit Triplet Test in English and French". 
+The Rmd file contains the code used for the key analysis of Phase 2 data (comparing version and list effects), and the code for plotting Figure 2 and Figure 3 in the JASA-EL paper "Development of the Canadian Digit Triplet Test in English and French". 
