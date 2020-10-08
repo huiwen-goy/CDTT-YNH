@@ -17,5 +17,5 @@ The jpeg files are copies of the data plots.
  
 The official report on the study is found here:
  
-(https://asa.scitation.org/doi/10.1121/10.0000825)[https://asa.scitation.org/doi/10.1121/10.0000825]
+[https://asa.scitation.org/doi/10.1121/10.0000825](https://asa.scitation.org/doi/10.1121/10.0000825)
 
